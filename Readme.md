@@ -1,3 +1,5 @@
+If you are new to Node or Javascript, and are reading this README then you probably should read https://medium.com/@nivekz/migrate-from-co-to-async-functions-4635d32d12bf before adopting this library !
+
 # co
 
 [![Gitter][gitter-image]][gitter-url]
